@@ -1,0 +1,1 @@
+my_data <- read.xlsx(xlsxFile = "Data_Entry.xlsx", fillMergedCells = TRUE, colNames = FALSE)
